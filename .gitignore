@@ -2,3 +2,5 @@ grepr/target
 grepr/Cargo.lock
 hello/target
 hello/Cargo.lock
+echor/target
+echor/Cargo.lock
