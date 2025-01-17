@@ -4,3 +4,6 @@ hello/target
 hello/Cargo.lock
 echor/target
 echor/Cargo.lock
+catr/target
+catr/Cargo.lock
+catr/cant_read
