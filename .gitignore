@@ -11,3 +11,5 @@ wcr/target
 wcr/Cargo.lock
 calr/target
 calr/Cargo.lock
+commr/target
+commr/Cargo.lock
