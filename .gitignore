@@ -18,3 +18,5 @@ fortuner/Cargo.lock
 headr/target
 lsr/target
 lsr/Cargo.lock
+tailr/target
+tailr/Cargo.lock
