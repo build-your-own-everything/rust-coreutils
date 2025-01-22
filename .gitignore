@@ -13,3 +13,8 @@ calr/target
 calr/Cargo.lock
 commr/target
 commr/Cargo.lock
+fortuner/target
+fortuner/Cargo.lock
+headr/target
+lsr/target
+lsr/Cargo.lock
