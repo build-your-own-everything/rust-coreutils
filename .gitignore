@@ -20,3 +20,5 @@ lsr/target
 lsr/Cargo.lock
 tailr/target
 tailr/Cargo.lock
+uniqr/target
+uniqr/Cargo.lock
