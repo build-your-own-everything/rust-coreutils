@@ -24,3 +24,4 @@ uniqr/target
 uniqr/Cargo.lock
 cutr/target
 cutr/Cargo.lock
+findr/target
